@@ -1,0 +1,30 @@
+mutations that occur during subsequent human-to-
+
+human transmission is warranted.
+
+M Protein
+
+The M protein is the most abundant viral protein
+present in the virion particle, giving a definite shape
+to the viral envelope (48). It binds to the
+nucleocapsid and acts as a central organizer of
+coronavirus assembly (49). Coronavirus M proteins
+are highly diverse in amino acid contents but
+maintain overall structural similarity within different
+genera (50). The M protein has three transmembrane
+domains, flanked by a short amino terminus outside
+the virion and a long carboxy terminus inside the
+virion (50). Overall, the viral scaffold is maintained
+by M-M interaction. Of note, the M protein of
+SARS-CoV-2. does not have an amino acid
+substitution compared to that of SARS-CoV (16).
+
+E Protein
+
+The coronavirus E protein is the most enigmatic
+and smallest of the major structural proteins (51). It
+plays a multifunctional role in the pathogenesis,
+assembly, and release of the virus (52). It is a small
+integral membrane polypeptide that acts as a
+
+viroporin (ion channel) (53). The inactivation or

@@ -1,0 +1,30 @@
+confer any noticeable protection, with the absence of
+
+detectable serum SARS-CoV-neutralizing antibodies
+(170). Antigenic determinant sites present over S and
+N structural proteins of SARS-CoV-2 can be
+explored as suitable vaccine candidates (294). In the
+Asian population, S, E, M, and N proteins of SARS-
+CoV-2 are being targeted for developing subunit
+vaccines against COVID-19 (295).
+
+The identification of the immunodominant region
+among the subunits and domains of S protein is
+critical for developing an effective vaccine against
+the coronavirus. The C-terminal domain of the S1
+subunit is considered the immunodominant region of
+the porcine deltacoronavirus S protein (171).
+Similarly, further investigations are needed to
+determine the immunodominant regions of SARS-
+CoV-2 for facilitating vaccine development.
+
+However, our previous attempts to develop a
+universal vaccine that is effective for both SARS-
+CoV and MERS-CoV based on T-cell epitope
+similarity pointed out the possibility of cross-
+reactivity among coronaviruses (172). That can be
+
+made possible by selected potential vaccine targets
+that are common to both viruses. SARS-CoV-2 has
+been reported to be closely related to SARS-CoV
+(173, ). Hence, knowledge and understanding of

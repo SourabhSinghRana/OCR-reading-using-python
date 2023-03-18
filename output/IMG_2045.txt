@@ -1,0 +1,31 @@
+To assess the genetic variation of different SARS-
+CoV-2 strains, the 2019 Novel Coronavirus Resource
+of China National Center for Bioinformation aligned
+77,801 genome sequences of SARS-CoV-2 detected glob-
+ally and identified a total of 15,018 mutations, including
+14,824 single-nucleotide polymorphisms (BIGD)”.
+In the S protein, four amino acid alterations, V483A,
+L455I, F456V and G476S, are located near the binding
+interface in the RBD, but their effects on binding to the
+host receptor are unknown. The alteration D614G in
+the S1 subunit was found far more frequently than other
+S variant sites, and it is the marker ofa major subclade of
+SARS-CoV-2 (clade G). Since March 2020, SARS-CoV-2
+variants with G614 in the S protein have replaced the
+original D614 variants and become the dominant form
+circulating globally. Compared with the D614 variant,
+higher viral loads were found in patients infected with
+the G614 variant, but clinical data suggested no signif-
+icant link between the D614G alteration and disease
+severity’. Pseudotyped viruses carrying the S protein
+with G614 generated higher infectious titres than viruses
+carrying the S protein with D614, suggesting the altera-
+tion may have increased the infectivity of SARS-CoV-2
+(REF.**). However, the results of in vitro experiments based
+on pseudovirus models may not exactly reflect natural
+infection. This preliminary finding should be validated
+by more studies using wild-type SARS-CoV-2 variants to
+infect different target cells and animal models. Whether
+this amino acid change enhanced virus transmissibil-
+ity is also to be determined. Another marker mutation
+for SARS-CoV-2 evolution is the single-nucleotide

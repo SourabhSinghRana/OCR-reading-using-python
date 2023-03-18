@@ -1,0 +1,29 @@
+both in vitro and in vivo anti-CoV_ potential.
+
+Although in vitro research carried out with these
+therapeutics showed efficacy, most need appropriate
+support from randomized animal or human trials.
+Therefore, they might be of limited applicability and
+require trials against SARS-CoV-2 to gain practical
+usefulness. The binding of SARS-CoV-2 with ACE2
+leads to the exacerbation of pneumonia as a
+consequence of the imbalance in the renin-
+angiotensin system (RAS). The virus-induced
+pulmonary inflammatory responses may be reduced
+by the administration of ACE inhibitors (ACEI) and
+angiotensin type-1 receptor (AT1R) (207).
+
+Several investigations have suggested the use of
+small-molecule inhibitors for the potential control of
+SARS-CoV infections. Drugs of the FDA-approved
+compound library were screened to identify four
+small-molecule inhibitors of | MERS-CoV
+(chlorpromazine, chloroquine, loperamide, and
+lopinavir) that inhibited viral replication. These
+compounds also hinder SARS-CoV and human
+CoVs (208). Therapeutic strategies involving the use
+of specific antibodies or compounds that neutralize
+cytokines and their receptors will help to restrain the
+host inflammatory responses. Such drugs acting
+
+specifically in the respiratory tract will help to

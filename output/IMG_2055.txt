@@ -1,0 +1,34 @@
+Inhibition of virus replication. Replication inhibitors
+include remdesivir (GS-5734), favilavir (T-705), riba-
+virin, lopinavir and ritonavir. Except for lopinavir and
+ritonavir, which inhibit 3CLpro, the other three all target
+RdRp'**"* (FIG. 5). Remdesivir has shown activity against
+SARS-CoV-2 in vitro and in vivo'*'”*. A clinical study
+revealed a lower need for oxygen support in patients
+with COVID-19 (REF.'*’). Preliminary results of the
+Adaptive COVID-19 Treatment Trial (ACTT) clinical
+trial by the National Institute of Allergy and Infectious
+Diseases (NIAID) reported that remdesivir can shorten
+the recovery time in hospitalized adults with COVID-19
+by a couple days compared with placebo, but the differ-
+ence in mortality was not statistically significant'**. The
+FDA has issued an emergency use authorization for rem-
+desivir for the treatment of hospitalized patients with
+severe COVID-19. It is also the first approved option by
+the European Union for treatment of adults and adoles-
+cents with pneumonia requiring supplemental oxygen.
+Several international phase III clinical trials are contin-
+uing to evaluate the safety and efficacy of remdesivir for
+the treatment of COVID-19.
+
+Favilavir (T-705), which is an antiviral drug devel-
+oped in Japan to treat influenza, has been approved in
+China, Russia and India for the treatment of COVID-19.
+A clinical study in China showed that favilavir signif-
+icantly reduced the signs of improved disease signs
+on chest imaging and shortened the time to viral
+clearance’. A preliminary report in Japan showed rates
+of clinical improvement of 73.8% and 87.8% from the
+start of favilavir therapy in patients with mild COVID-19
+at 7 and 14 days, respectively, and 40.1% and 60.3%
+in patients with severe COVID-19 at 7 and 14 days,

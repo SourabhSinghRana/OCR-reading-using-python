@@ -1,0 +1,27 @@
+N Protein
+
+The N protein of coronavirus is multipurpose.
+Among several functions, it plays a role in complex
+formation with the viral genome, facilitates M
+protein interaction needed during virion assembly,
+and enhances the transcription efficiency of the virus
+(55, 56). It contains three highly conserved and
+distinct domains, namely, an NTD, an RNA-binding
+domain or a linker region (LKR), and a CTD (57).
+The NTD binds with the 3’ end of the viral genome,
+perhaps via electrostatic interactions, and is highly
+diverged both in length and sequence (58). The
+charged LKR is serine and arginine rich and is also
+known as the SR (serine and arginine) domain (59).
+The LKR is capable of direct interaction with in vitro
+RNA interaction and is responsible for cell signaling
+(60, 61). It also modulates the antiviral response of
+the host by working as an antagonist for interferon
+(IFN) and RNA interference (62). Compared to that
+of SARS-CoV, the N protein of SARS-CoV-2
+possess five amino acid mutations, where two are in
+the intrinsically dispersed region (IDR; positions 25
+and 26), one each in the NTD (position 103), LKR
+(position 217), and CTD (position 334) (16).
+
+nsps and Accessory Proteins

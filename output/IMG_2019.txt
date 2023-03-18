@@ -1,0 +1,36 @@
+in Yunnan. This novel bat virus, denoted ‘RmYN02’,
+is 93.3% identical to SARS-CoV-2 across the genome.
+In the long Jab gene, it exhibits 97.2% identity to
+SARS-CoV-2, which is even higher than for RaTG13
+(REF.*). In addition to RaTG13 and RmYNO02, phyloge-
+netic analysis shows that bat coronaviruses ZC45 and
+ZXC21 previously detected in Rhinolophus pusillus
+bats from eastern China also fall into the SARS-CoV-2
+lineage of the subgenus Sarbecovirus” (FIG. 2). The dis-
+covery of diverse bat coronaviruses closely related to
+SARS-CoV-2 suggests that bats are possible reservoirs
+of SARS-CoV-2 (REF.”). Nevertheless, on the basis of
+current findings, the divergence between SARS-CoV-2
+and related bat coronaviruses likely represents more than
+20 years of sequence evolution, suggesting that these bat
+coronaviruses can be regarded only as the likely evolu-
+tionary precursor of SARS-CoV-2 but not as the direct
+progenitor of SARS-CoV-2 (REF.*).
+
+Beyond bats, pangolins are another wildlife host
+probably linked with SARS-CoV-2. Multiple SARS-CoV-2-
+related viruses have been identified in tissues of Malayan
+pangolins smuggled from Southeast Asia into southern
+China from 2017 to 2019. These viruses from pangolins
+independently seized by Guangxi and Guangdong pro-
+vincial customs belong to two distinct sublineages*”’.
+The Guangdong strains, which were isolated or
+sequenced by different research groups from smug-
+gled pangolins, have 99.8% sequence identity with each
+other*'. They are very closely related to SARS-CoV-2,
+exhibiting 92.4% sequence similarity. Notably, the RBD
+of Guangdong pangolin coronaviruses is highly similar
+to that of SARS-CoV-2. The receptor-binding motif
+(RBM; which is part of the RBD) of these viruses has
+only one amino acid variation from SARS-CoV-2, and
+it is identical to that of SARS-CoV-2 in all five critical

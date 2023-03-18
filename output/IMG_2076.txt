@@ -1,0 +1,37 @@
+nsps and Accessory Proteins
+
+Besides the important structural proteins, the
+SARS-CoV-2 genome contains 15 nsps, nspl to
+nsp10 and nsp12 to nsp16, and 8 accessory proteins
+(3a, 3b, p6, 7a, 7b, 8b, 9b, and ORF14) (16). All
+these proteins play a specific role in viral replication
+(27). Unlike the accessory proteins of SARS-CoV,
+SARS-CoV-2 does not contain 8a protein and has a
+longer 8b and shorter 3b protein (16). The nsp7,
+nsp13, envelope, matrix, and p6 and 8b accessory
+proteins have not been detected with any amino acid
+substitutions compared to the sequences of other
+
+coronaviruses (16).
+The virus structure of SARS-CoV-2 is depicted in
+Fig. 2.
+
+Spike glycoprotein (S)
+(required for the entry of the
+infectious virion particle)
+
+Membrane protein (M)
+
+(most abundant viral protein) Major structural proteins
+
+Envelope glycoprotein (E)
+(smallest among the major
+structural proteins)
+
+Nucleocapsid protein (N)
++ single-stranded positive
+sense RNA genome
+
+Lipid bilayer
+
+FIG 2 SARS-CoV-2 virus structure.
